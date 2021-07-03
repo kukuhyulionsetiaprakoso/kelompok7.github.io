@@ -1,0 +1,33 @@
+.navbar{
+background-color: rgba(230,230,250, 0.7);
+}
+.offcanvas{
+	font-weight: 400;
+	font-size: 25px;
+	font-style: oblique;
+}
+.nav-pills{
+	background-color: rgba(224, 255, 255, 0.5);
+	font-weight: 400;
+	font-size: 60px;
+	font-style: oblique;
+}
+.hr{
+	font-weight: 400;
+	font-size: 40px;
+	font-style: oblique;
+}
+.carousel-caption h5{
+	font-size: 100px;
+	color: ghostwhite;
+	font-style: oblique;
+}
+.carousel-caption p{
+	font-size: 25px;
+	font-style: oblique;
+	font-weight: 400;
+	color: snow;
+}
+#info{
+	background-color: rgba(230,230,250, 0.7);
+}
